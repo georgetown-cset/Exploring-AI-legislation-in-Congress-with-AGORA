@@ -13,7 +13,7 @@ Link to document | URL | A link to an authoritative record of the document. In v
 Short summary |	Text | A skimmable (1-2 sentence length) summary of the AI-related content of the document.|
 Long summary | Text |	A detailed (1-2 paragraph equivalent) summary of the AI-related content of the document.|
 Tags | Text array |	A list of all <a href = "https://eto.tech/dataset-docs/agora-dataset/#tag">thematic tags </a> applicable to one or more of the document's segments.|
-[subsequent fields]	| boolean |	The remaining fields in this table disaggregate the thematic <i>tags</i> listed in tags, for ease of analysis. Each field corresponds to one tag and indicates whether the tag does or does not apply with the values TRUE and FALSE, respectively.|
+[subsequent fields]	| Boolean |	The remaining fields in this table disaggregate the thematic <i>tags</i> listed in tags, for ease of analysis. Each field corresponds to one tag and indicates whether the tag does or does not apply with the values TRUE and FALSE, respectively.|
 
 </br>
 <h3>Additional Information:</h3>
